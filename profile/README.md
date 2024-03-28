@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="SmartDisperse Logo" width="400">
+  <img src="https://github.com/Smart-Disperse/.github/blob/main/Smart-Disperse%20Git%20hub%20Cover.png" alt="SmartDisperse Logo" width="400">
 </div>
 
 # Welcome to Smart Disperse 🤝
