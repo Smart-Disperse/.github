@@ -4,7 +4,8 @@
 
 # Welcome to Smart Disperse 🤝
 
-Cross-chain Transfers with a Single Transaction to Multiple Wallets
+All Chains, One Solution
+Smart-Disperse Your Crypto Transactions!
 
 ---
 
